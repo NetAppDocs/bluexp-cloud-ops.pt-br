@@ -1,0 +1,38 @@
+---
+settings:
+  name: BlueXP cloud ops
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  rss_page: whats-new.html
+  langs: pt-br,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: Documentos de operações em nuvem do BlueXP 
+    url: "/index.html"
+  - title: Notas de lançamento
+    entries:
+    - title: O que há de novo
+      url: "/whats-new.html"
+  - title: Comece agora
+    entries:
+    - title: Saiba mais sobre as operações de nuvem do BlueXP 
+      url: "/concept-compute.html"
+    - title: Conete sua conta da AWS
+      url: "/task-getting-started-compute.html"
+  - title: Analise seus custos de computação
+    url: "/task-analyze-costs.html"
+  - title: Conhecimento e apoio
+    entries:
+    - title: Registre-se para obter suporte
+      url: "/task-support-registration.html"
+    - title: Obtenha ajuda
+      url: "/task-get-help.html"
+  - title: Avisos legais
+    url: "/legal-notices.html"
+product-family:
+  name: BlueXP
+  repo: bluexp-family

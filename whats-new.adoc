@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+summary: Saiba as novidades das operações de nuvem do BlueXP . 
+---
+= O que há de novo
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Saiba as novidades das operações de nuvem do BlueXP .
+
+
+
+== 7 de dezembro de 2020
+
+
+
+=== Navegação entre o Cloud Manager e o Spot
+
+Agora é mais fácil navegar entre o Cloud Manager e o Spot.
+
+Uma nova seção *Storage Operations* no Spot permite que você navegue diretamente para o Cloud Manager. Depois de terminar, você pode voltar ao Spot na guia *Compute* no Cloud Manager.
+
+
+
+== 18 de outubro de 2020
+
+
+
+=== Apresentando o serviço Compute
+
+Ao aproveitar https://spot.io/products/cloud-analyzer/["Spot's Cloud Analyzer"^]o , o Cloud Manager agora pode fornecer uma análise de custos de alto nível dos seus gastos com computação em nuvem e identificar possíveis economias. Essas informações estão disponíveis no serviço *Compute* no Cloud Manager.
+
+https://docs.netapp.com/us-en/bluexp-cloud-ops/concept-compute.html["Saiba mais sobre o serviço Compute"].
+
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/media/screenshot_compute_dashboard.gif["Uma captura de tela que mostra a página análise de custos no Cloud Manager"]

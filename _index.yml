@@ -1,0 +1,27 @@
+---
+indexpage:
+  title: Documentação de operações de nuvem da BlueXP 
+  summary: Veja uma análise de custo dos gastos da computação em nuvem e identifique
+    possíveis economias diretamente no BlueXP .
+  keywords: bluexp-family, bluexp, documentation, cloud
+  lead: Veja uma análise de custo dos gastos da computação em nuvem e identifique
+    possíveis economias diretamente no BlueXP .
+  tiles:
+  - title: Comece agora
+    links:
+    - title: Saiba mais sobre as operações de nuvem do BlueXP 
+      url: concept-compute.html
+    - title: Conete sua conta da AWS
+      url: task-getting-started-compute.html
+  - title: Use as operações de nuvem do BlueXP 
+    links:
+    - title: Analise seus custos de computação
+      url: task-analyze-costs.html
+  - title: Blogs & comunidade
+    links:
+    - title: Comunidade NetApp
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP  blog
+      url: https://cloud.netapp.com/blog
+    - title: Webinars na nuvem
+      url: https://cloud.netapp.com/events

@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: task-getting-started-compute.html 
+keywords: compute, cloud analyzer, connect cloud analyzer, connect management account, connect payer account, aws payer account 
+summary: Conete o Cloud Analyzer à sua conta do AWS Payer para que você possa começar a otimizar seus custos de computação em nuvem. 
+---
+= Conete sua conta da AWS
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Conete o Cloud Analyzer à sua conta do AWS Payer para que você possa começar a otimizar seus custos de computação em nuvem.
+
+.Passos
+. No menu de navegação, selecione *Extensões > Cloud OPS*.
+. Clique em *Adicionar credenciais da AWS ao Iniciar*.
+. Siga as etapas na página para conetar sua conta da AWS:
++
+.. Faça login na sua conta de gerenciamento da AWS.
+.. Configure relatórios de custo e uso na conta da AWS.
+.. Execute o modelo do CloudFormation.
+.. Cole o Spot RoleARN.
++
+https://docs.spot.io/connect-your-cloud-provider/first-account/?id=connect-aws["Veja mais detalhes sobre estas etapas"^].
+
++
+image:screenshot_compute_add_account.gif["Uma captura de tela que mostra cada campo disponível na página de conexão."]
+
+
+
+
+
+.Resultado
+O Cloud Analyzer começa a processar os dados da sua conta da AWS. Se você tiver várias contas, o Cloud Analyzer começa com recursos somente leitura para todas as contas vinculadas na conta de gerenciamento. Se você quiser obter mais detalhes sobre as economias potenciais para essas contas, então você também precisará conectá-las. Você pode encontrar mais detalhes sobre como conetar contas quando link:task-analyze-costs.html["analise seus custos de computação"]você .
