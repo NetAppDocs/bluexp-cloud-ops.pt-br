@@ -266,7 +266,6 @@
   <block id="0947726e3c301f45f25d6d4b3295fcec" category="inline-link">Saiba mais sobre o serviço Compute</block>
   <block id="9cb4f066718ada1a845659033318004c" category="paragraph"><block ref="19c68668f7d6a95b64e909c5da1cb9b0" category="inline-link-rx"></block>.</block>
   <block id="6ae18045fc1ab0bf7898b13f3ef31c9a" category="inline-image-macro">Uma captura de tela que mostra a página análise de custos no Cloud Manager</block>
-  <block id="16364877a101c1787c34f2fe604ef9e9" category="paragraph"><block ref="16364877a101c1787c34f2fe604ef9e9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c89902de22e38dc537fc0ceae8ac9bf3" category="sidebar">Veja uma análise de custo dos gastos da computação em nuvem e identifique possíveis economias diretamente no BlueXP .</block>
   <block id="b54b9d75f69467d65862b2ee5b79fe70" category="sidebar">Documentação de operações de nuvem da BlueXP </block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Comece agora</block>
@@ -279,4 +278,5 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de lançamento</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">O que há de novo</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Conhecimento e apoio</block>
+  <block id="4d2269079ceadb46a414d16a2d033af9" category="paragraph"><block ref="4d2269079ceadb46a414d16a2d033af9" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>

@@ -1,0 +1,11 @@
+= Navegação entre o Cloud Manager e o Spot
+:allow-uri-read: 
+
+
+
+
+=== Navegação entre o Cloud Manager e o Spot
+
+Agora é mais fácil navegar entre o Cloud Manager e o Spot.
+
+Uma nova seção *Storage Operations* no Spot permite que você navegue diretamente para o Cloud Manager. Depois de terminar, você pode voltar ao Spot na guia *Compute* no Cloud Manager.
